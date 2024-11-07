@@ -7,12 +7,12 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #444444;
+    color: #20C997;
     background-color: #f4f4f4;
 }
 
 header {
-    background: #333;
+    background: #20C997;
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -47,8 +47,8 @@ section {
 }
 
 section h2 {
-    color: #333;
-    border-bottom: 2px solid #333;
+    color: #20C997;
+    border-bottom: 2px solid #20C997;
     padding-bottom: 0.5rem;
     margin-bottom: 1rem;
 }
@@ -61,7 +61,7 @@ section ul {
 footer {
     text-align: center;
     padding: 1rem;
-    background: #333;
+    background: #20C997;
     color: #fff;
     margin-top: 2rem;
 }
