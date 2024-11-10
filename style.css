@@ -47,9 +47,10 @@ section {
 }
 
 section h2 {
-    color: #333;
-    border-bottom: 2px solid #04525c;
+    color: #04525c;
+    border-bottom: 2px solid #333;
     padding-bottom: 0.5rem;
+    border-radius: 4px;
     margin-bottom: 1rem;
 }
 
